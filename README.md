@@ -47,10 +47,4 @@ Projeto de **Machine Learning supervisionado** para **prever o score de crédito
 ---
 
 ## 🎓 Créditos
-Projeto baseado em aula do canal **Hashtag Programação**  
-https://www.youtube.com/@HashtagProgramacao
-
----
-
-## 🎓 Créditos
 🎥 **[Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)** Feito em uma live no YouTube.
